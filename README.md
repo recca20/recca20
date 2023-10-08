@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Lawrence Alejo</h1>
 <h3 align="center">An aspiring game programmer driven by my deep love for video games. While my professional background lies elsewhere, my lifelong passion for gaming fuels my desire to transition into the world of game development.</h3>
 
-- 🌱 I’m currently learning **Data Structure and Algorithm, Unreal Engine C++.**
+- 🌱 I’m currently learning **Data Structure and Algorithm, Unreal Engine 5.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/recca20?tab=repositories](https://github.com/recca20?tab=repositories)
 
