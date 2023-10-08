@@ -1,4 +1,5 @@
 <h1 align="center">Hi👋, I'm Lawrence Alejo</h1>
+<h2 align="center"> Game Programmer </h2>
 <h3 align="center">An aspiring game programmer driven by my deep love for video games. While my professional background lies elsewhere, my lifelong passion for gaming fuels my desire to transition into the world of game development.</h3>
 
 - 🌱 I’m currently learning **Data Structure and Algorithm, Unreal Engine 5.**
