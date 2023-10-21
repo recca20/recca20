@@ -1,9 +1,6 @@
-![Header](./[github-header-image.png])
 <div align="center">
-  <img height="150" src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966"  />
+  <img height="250" width="800" src="https://github.com/recca20/recca20/blob/main/github-header-image.png"  />
 </div>
-<h1 align="center">Hi👋, I'm Lawrence Alejo</h1>
-<h2 align="center"> (Game Programmer) </h2>
 <h3 align="center"> 💫Driven by an unwavering passion for game development, I am a dedicated game programmer student committed to turning my dreams into a reality. Every line of code I write, every game I create, is a testament to my unyielding motivation to excel in the world of game development. With each day, I push my boundaries, striving to become a successful game developer in a field I am deeply passionate about. </h3>
 <br>🔭 I’m currently working on Unreal Engine 5 project<br>👯 I’m looking to collaborate on Unity projects<br>🤝 I’m looking for help with my game programmer internship<br>🌱 I’m currently learning DSA and Programming Patterns
 <br>👨‍💻 All of my projects are available at <a href="https://www.lawrencealejo.com/" target="_blank">My Portfolio</a>
@@ -26,11 +23,5 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
 
-<h3 align="left">🔥   My Stats :</h3>
 
-###
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=recca20&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
 
