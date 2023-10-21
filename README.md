@@ -33,8 +33,3 @@
   <img src="https://streak-stats.demolab.com?user=recca20&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
-###
-
-<img src="https://raw.githubusercontent.com/recca20/recca20/output/snake.svg" alt="Snake animation" />
-
-###
