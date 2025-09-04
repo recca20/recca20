@@ -1,4 +1,6 @@
-
+<div align="center">
+  <img height="250" width="800" src="https://github.com/recca20/recca20/blob/main/github-header-image.png"  />
+</div>
 <h3 align="center"> 💫Driven by an unwavering passion for game development, I am a dedicated game programmer committed to turning my dreams into a reality. Every line of code I write, every game I create, is a testament to my unyielding motivation to excel in the world of game development. With each day, I push my boundaries, striving to become a successful game developer in a field I am deeply passionate about. </h3>
 <br>🔭 I’m currently working on Unreal Engine 5 project<br>👯 I’m looking to collaborate on Unity projects<br>🤝 I’m looking for help with my game programmer internship<br>🌱 I’m currently learning DSA and Programming Patterns
 <br>👨‍💻 All of my projects are available at <a href="https://www.lawrencealejo.com/" target="_blank">My Portfolio</a>
